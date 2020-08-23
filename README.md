@@ -10,5 +10,5 @@
 
 4. Concatenate them
 
-**check out the code** [here](https://github.com/ccjameslai/100-Days-Of-RL-Code/blob/master/code/GoatLatin.cpp)
+**check out the code** [here](https://github.com/ccjameslai/MyLeetCode/blob/master/code/GoatLatin.cpp)
 

@@ -12,3 +12,8 @@
 
 **check out the code** [here](https://github.com/ccjameslai/MyLeetCode/blob/master/code/GoatLatin.cpp)
 
+### **Two Sum (1)**
+
+1. Two for loops to find two elements, which adding these numbers equals the target
+
+**check out the code** [here](https://github.com/ccjameslai/MyLeetCode/blob/master/code/TwoSum.cpp)

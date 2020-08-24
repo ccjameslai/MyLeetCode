@@ -9,6 +9,6 @@ public:
                 }
             }
         }
-        return nums;
+        return {};
     }
 };

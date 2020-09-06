@@ -3,7 +3,7 @@ public:
     string modifyString(string s) {
         if (s[0] == '?') {
             if (s[1] == '?') {s[0] = 'a';}
-            int d = 1;
+            int d = 0;
             do {
                 s[0] = static_cast<char>('a' + d);
                 d++;

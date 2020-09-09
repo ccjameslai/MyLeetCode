@@ -18,7 +18,6 @@
 
 **check out the code** [here](https://github.com/ccjameslai/MyLeetCode/blob/master/code/TwoSum.cpp)
 
-
 ### **Replace All ?'s to Avoid Consecutive Repeating Characters (1576)**
 
 1. Check the first char. If it is a question mark and the next char is also a question mark, directly assign to 'a'. 
@@ -28,3 +27,17 @@
 3. Do the similiar thing at step 1 and 2. However, there is a little different thing at step 2. It not only checks the next char, but also the previous. 
 
 **check out the code** [here](https://github.com/ccjameslai/MyLeetCode/blob/master/code/ReplaceQuestionMark.cpp)
+
+### **Reverse Only Letters (917)**
+
+1. Given a iterator i from head to tail and another iterator j from tail to head.
+
+2. Check if i is larger than j. If it is positive, then stop the iteration.
+
+3. Check if the i_th element of the string is alphabet. If it is negative, then continue the loop.
+
+4. Check if the j_th element of the string is alphabet. If it is negative, then assign the previous index to j.
+
+5. Swap the char of i_th and j_th.
+
+**check out the code** [here](https://github.com/ccjameslai/MyLeetCode/blob/master/code/ReverseOnlyLetters.cpp)

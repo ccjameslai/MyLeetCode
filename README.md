@@ -41,3 +41,11 @@
 5. Swap the char of i_th and j_th.
 
 **check out the code** [here](https://github.com/ccjameslai/MyLeetCode/blob/master/code/ReverseOnlyLetters.cpp)
+
+### **Add Two Numbers (2)**
+
+1. Determine the value of l1 and l2. If l1 or l2 is nullptr, the value is 0.
+
+2. Sumarize l1 and l2 node by node. Be aware of the carry.
+
+**check out the code** [here](https://github.com/ccjameslai/MyLeetCode/blob/master/code/AddTwoNumbers.cpp)

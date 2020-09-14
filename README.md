@@ -50,7 +50,7 @@
 
 **check out the code** [here](https://github.com/ccjameslai/MyLeetCode/blob/master/code/AddTwoNumbers.cpp)
 
-### **Middle of the Linked List (2)**
+### **Middle of the Linked List (876)**
 
 1. Find the size of the linked list, and calculate the value(index) of the middle.
 

@@ -49,3 +49,12 @@
 2. Sumarize l1 and l2 node by node. Be aware of the carry.
 
 **check out the code** [here](https://github.com/ccjameslai/MyLeetCode/blob/master/code/AddTwoNumbers.cpp)
+
+### **Middle of the Linked List (2)**
+
+1. Find the size of the linked list, and calculate the value(index) of the middle.
+
+2. For loop the linked list until the step equals the value(index) of the middle.
+
+**check out the code** [here](https://github.com/ccjameslai/MyLeetCode/blob/master/code/MiddleoftheLinkedList.cpp)
+

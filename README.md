@@ -46,7 +46,7 @@
 
 1. Determine the value of l1 and l2. If l1 or l2 is nullptr, the value is 0.
 
-2. Sumarize l1 and l2 node by node. Be aware of the carry.
+2. Add up l1 and l2 node by node. Be aware of the carry.
 
 **check out the code** [here](https://github.com/ccjameslai/MyLeetCode/blob/master/code/AddTwoNumbers.cpp)
 
@@ -57,4 +57,20 @@
 2. For loop the linked list until the step equals the value(index) of the middle.
 
 **check out the code** [here](https://github.com/ccjameslai/MyLeetCode/blob/master/code/MiddleoftheLinkedList.cpp)
+
+### **Crawler Log Folder (1598)**
+
+1. Increase one step if the string is neither "./" nor "../".
+
+2. Decrease one step if the string is "../".
+
+**check out the code** [here](https://github.com/ccjameslai/MyLeetCode/blob/master/code/CrawlerLogFolder.cpp)
+
+### **Maximum Profit of Operating a Centennial Wheel (1599)**
+
+1. Calculate profit and the number of people who are inlined and record the number of the rest of people for each loop in existed vector length.
+
+2. Add up the profit of the rest of people if they existed.
+
+**check out the code** [here](https://github.com/ccjameslai/MyLeetCode/blob/master/code/MaxProfitofWheel.cpp)
 

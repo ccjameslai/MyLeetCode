@@ -80,6 +80,6 @@
   
    1. Set the boundary condition.
 
-   2. Split two sub-operation, a + b = n.
+   2. Split two sub-operation, Pow(x,a) * Pow(x,b) = Pow(x,n).
 
 **check out the code** [here](https://github.com/ccjameslai/MyLeetCode/blob/master/code/Pow.cpp)

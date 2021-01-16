@@ -83,3 +83,13 @@
    2. Split two sub-operation, Pow(x,a) * Pow(x,b) = Pow(x,n).
 
 **check out the code** [here](https://github.com/ccjameslai/MyLeetCode/blob/master/code/Pow.cpp)
+
+- ## **Teemo Attacking (495)**
+  
+   1. if the difference between current value and next in the vector is less than the duration, the result is added the difference.
+
+   2. if the difference between current value and next in the vector is greater than the duration, the result is added the duration.
+   
+   3. at last, return the summation of the result and the duration
+
+**check out the code** [here](https://github.com/ccjameslai/MyLeetCode/blob/master/code/TeemoAttacking.cpp)

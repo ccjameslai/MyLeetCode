@@ -93,3 +93,17 @@
    3. at last, return the summation of the result and the duration
 
 **check out the code** [here](https://github.com/ccjameslai/MyLeetCode/blob/master/code/TeemoAttacking.cpp)
+
+- ## **Valid Parentheses (20)**
+  
+   1. Use stack to store left parentheses.
+   
+   2. if the stack is empty and right parentheses exist, return false
+   
+   3. if the stack is not empty but the top of stack can't match the current parentheses, return false.
+   
+   4. pop out the top item if it matches the current parentheses.
+   
+   5. finally, if the stack is empty, then return true.
+   
+**check out the code** [here](https://github.com/ccjameslai/MyLeetCode/blob/master/code/ValidParentheses.cpp)
